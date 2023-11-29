@@ -15,6 +15,15 @@ Shows weather data such as temperature, wind, humidity, etc. A very basic React 
 ### Counterfeit Product Detection And Identification [Link](https://github.com/janakmandavgade/Blockchain_CounterfeitDetection)
 It detects counterfeit products in s block-supply chain. There are 3 main users manufacturer, retailer, and customer. Our app monitors the supply chain and if any mishaps or illegal activity is detected, it sends an alert to the responsible parties and also shows this data to the customer. 
 
+### Social Media App (MERN) [Link](https://github.com/janakmandavgade/Social-Media-App-Mern)
+Just a custom social media app that utilizes React-Redux.Similar to Instagram but better and cleaner than it.
+
+### AI Chatbot Named Chatify AI 
+Link for Frontend code - [Link](https://github.com/janakmandavgade/Chatify-frontend)
+Link for backend code  - [Link](https://github.com/janakmandavgade/Chatify_backend)
+
+Uses the LangChain framework to make AI development easier. We use ChromaDB for storing and retrieving embeddings. Basically, we create embeddings (vector data) and then based upon user query fetch related text extracted from pdfs and then send them to OpenAI for processing. After this processing, the ChatBot gives us the required answer. 
+
 ## Skills
 
 - Programming languages: <img src ="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" height=25> <img src ="https://camo.githubusercontent.com/d423cf12cc9ec53976db472d8844305e3f324418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" height=25> <img src ="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" height=25> <img src ="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=25> <img src ="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height=25><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height = 25><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height = 25><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height = 25>
