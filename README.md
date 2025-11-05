@@ -1,6 +1,10 @@
 # 💫 About Me:
 👋 Hi there, I’m Janak<br>I’m an all-rounder in the tech world—passionate about AI/ML, full‑stack development, and DevOps. Currently, I'm channeling my curiosity into a meme generator app powered by MCP servers.<br><br>What I bring to the table:<br><br>AI/ML Enthusiast: Building intelligent systems, experimenting with models, and always learning.<br><br>Full‑Stack Developer: Crafting clean, responsive frontend UIs and robust backend systems.<br><br>DevOps Pro: Automating deployments, managing servers on Linux, writing bash scripts, and orchestrating infrastructure.<br><br>GitHub + Linux + Bash: Command‑line veteran sharing tools and projects with the community.<br><br>I love diving deep into code, deploying scalable systems, and pushing the boundaries of AI-driven creativity. Let’s connect!
 
+# Portfolio Website
+### Portfolio [Link](https://portfolio-five-iota-0lnedfcid2.vercel.app/)
+Shows weather data such as temperature, wind, humidity, etc. A very basic React Project.
+
 ## 🚀 Projects
 
 ### WeatherApp [Link](https://github.com/janakmandavgade/weatherappfinal)
