@@ -3,7 +3,6 @@
 
 # Portfolio Website
 ### Portfolio [Link](https://portfolio-five-iota-0lnedfcid2.vercel.app/)
-Shows weather data such as temperature, wind, humidity, etc. A very basic React Project.
 
 ## 🚀 Projects
 
