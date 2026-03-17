@@ -6,6 +6,13 @@
 
 ## 🚀 Projects
 
+### Auto Meme Generator [Link](https://agentic-mail.janakmandavgade.dedyn.io/)
+- Built a **3-service AI content pipeline** using **Next.js**, **FastAPI + LangGraph**, and **FastMCP** to automate meme-to-video generation and publishing.
+- Implemented a **5-step workflow** covering meme fetch, Gemini-based metadata generation, **1080x1920** video rendering with MoviePy, human approval via `interrupt/resume`, and YouTube upload with OAuth.
+- The system spans **72 non-`.git` files**, around **4.7K lines of code/config**, **6 frontend pages**, **3 API endpoints**, and **5 MCP tools**.
+- Demonstrates **agentic orchestration, Redis-backed checkpointing, multimodal AI integration, and full-stack automation** in a production-style architecture.
+
+
 ### LotteryGame [Link](https://lottery-game.janakmandavgade.dedyn.io/)
 - Built a full-stack lottery platform using **React, Vite, Express, Prisma, and PostgreSQL**.
 - Implemented **real-time style result updates**, local caching, and date-based result history for an interactive game flow.
