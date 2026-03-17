@@ -6,7 +6,7 @@
 
 ## 🚀 Projects
 
-### LotteryGame
+### LotteryGame [Link](https://lottery-game.janakmandavgade.dedyn.io/)
 - Built a full-stack lottery platform using **React, Vite, Express, Prisma, and PostgreSQL**.
 - Implemented **real-time style result updates**, local caching, and date-based result history for an interactive game flow.
 - Designed a **2-minute round-based result engine** with time validation and duplicate-result prevention.
