@@ -6,6 +6,13 @@
 
 ## 🚀 Projects
 
+### Agentic Email Platform [Link](https://agentic-mail.janakmandavgade.dedyn.io/)
+
+- Built a **full-stack agentic email system** where AI can search, read, draft, and send emails across a live Gmail workflow using **Next.js, FastAPI, and LangGraph**.
+- Engineered **CopilotKit AG-UI** so the agent doesn’t just respond, it **drives the interface** by navigating inbox states, opening threads, and preparing actions in real time.
+- Shipped a **production-style backend** with secure Google OAuth, typed APIs, natural-language-to-Gmail search, caching, pagination, and attachment-aware email flows.
+- Designed a **human-approved autonomous agent** with **Gemini + LangGraph** that keeps state across conversations, chooses tools dynamically, and pauses before every high-impact action.
+
 ### Auto Meme Generator [Link](https://agentic-mail.janakmandavgade.dedyn.io/)
 - Built a **3-service AI content pipeline** using **Next.js**, **FastAPI + LangGraph**, and **FastMCP** to automate meme-to-video generation and publishing.
 - Implemented a **5-step workflow** covering meme fetch, Gemini-based metadata generation, **1080x1920** video rendering with MoviePy, human approval via `interrupt/resume`, and YouTube upload with OAuth.
