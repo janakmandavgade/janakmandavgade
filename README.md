@@ -6,6 +6,14 @@
 
 ## 🚀 Projects
 
+### LotteryGame
+- Built a full-stack lottery platform using **React, Vite, Express, Prisma, and PostgreSQL**.
+- Implemented **real-time style result updates**, local caching, and date-based result history for an interactive game flow.
+- Designed a **2-minute round-based result engine** with time validation and duplicate-result prevention.
+- Added **JWT authentication**, **API-key-secured APIs**, and protected frontend routes for secure access control.
+- Handled **transaction-safe record creation and wallet deduction** to model balance-sensitive backend operations.
+- Showcased experience in **full-stack architecture, scheduled systems, business logic, and state-driven UI development**.
+
 ### WeatherApp [Link](https://github.com/janakmandavgade/weatherappfinal)
 Shows weather data such as temperature, wind, humidity, etc. A very basic React Project.
 
